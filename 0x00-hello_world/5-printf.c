@@ -1,8 +1,8 @@
-include < stdio.h >
+include <stdio.h>
 /*
  * write a program that prints
  *
- *return: always 0 (successs)
+ *return: always 0 (success)
  */
 int main(void)
 {
