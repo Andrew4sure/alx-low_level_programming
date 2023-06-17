@@ -4,10 +4,7 @@
  *
  * Return: Always 0(success)
  */
-int main(void);
-	/*
-	 * Using puts function only
-	 * /
+int main(void);  /* Using puts function only */
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
 	return (0);
