@@ -4,8 +4,9 @@
  *
  * returns: Always 0 (success)
  */
-/* description: main Program with printf*/
-
+/*
+ * description: main Program with printf
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,");
