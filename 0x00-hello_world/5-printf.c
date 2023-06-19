@@ -1,4 +1,4 @@
-#incnglude <stdio.h>
+#include <stdio.h>
 /**
  * main: program that prints with printf
  *
