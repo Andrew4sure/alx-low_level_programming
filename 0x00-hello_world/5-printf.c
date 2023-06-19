@@ -1,12 +1,10 @@
-#include <stdio.h>
+#incnglude <stdio.h>
 /**
- * main - Entry point
+ * main: program that prints with printf
  *
  * returns: Always 0 (success)
  */
-/*
- * description: main Program with printf
- */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,");
