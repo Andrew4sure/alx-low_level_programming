@@ -1,4 +1,4 @@
-#include *main.H*
+#include "main.h"
 /**
  * int _abs - computes the absolute value of an integer
  *
@@ -8,14 +8,14 @@ int _abs(int)
 {
 	if (c == +)
 	{
-		-putchar();
+		putchar();
 	}
 	else if (c == -)
 	{
-		_putchar();
+		putchar();
 	}
 	else
 	{
-		_putchar();
+		putchar();
 	}
 }
