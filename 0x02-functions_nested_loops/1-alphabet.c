@@ -7,15 +7,13 @@
 /*
  * print_alphabet - prints the alphabet in lowercase
  */
-int main(void)
 void print_alphabet(void)
 {
 	int i;
-	char i;
 
 	for (i = a; i <= z; i++)
 	{
-		putchar(i);
+		_putchar(i);
 	}
-	purchar("\n");
+	_purchar("\n");
 }
